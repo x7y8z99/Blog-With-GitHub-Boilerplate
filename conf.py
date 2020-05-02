@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/DGs-Personal-Blog/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "x7y8z99/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "x7y8z99/DGs-Personal-Blog@gh-pages"
 }
 
 # 站点设置
@@ -24,9 +24,9 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "DG"
 email = "x7y8z99@gmail.com"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+author_homepage = ""
+description = "Go venture far beyond the world"
+key_words = ['Maverick', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -37,7 +37,7 @@ external_links = [
     {
         "name": "三無計劃",
         "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "brief": "DG的主页。"
     }
 ]
 nav = [
