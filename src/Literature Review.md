@@ -14,3 +14,6 @@ tags:
 excerpt: Literature Review!
 ---
 
+## This is a notebook to track down the process of learning machine learning in medical imaging
+
+Today I am going to read the paper "A survey on deep learning in medical image analysis"
